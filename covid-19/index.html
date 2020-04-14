@@ -36,28 +36,29 @@
 
 <h2>Country Summary Analysis</h2>
 <!-- <div><embed src="CountrySummary.txt" height="800" width="500></div><br> -->
-<p><embed src="CountrySummary.txt" height="600" width="500><br></p>
+<!-- <p><embed src="CountrySummary.txt" height="600" width="500><br></p> -->
 
-<!-- <p id="demo"></p> -->
-<!-- <script type = "text/javascript"> -->
-<!-- function readTextFile(file) -->
-<!-- { -->
-    <!-- var txtFile = new XMLHttpRequest(); -->
-    <!-- var allText = "file not found"; -->
-    <!-- txtFile.onreadystatechange = function () { -->
-        <!-- if (txtFile.readyState === XMLHttpRequest.DONE && txtFile.status == 200) { -->
-            <!-- allText = txtFile.responseText; -->
-            <!-- allText = allText.split("\n").join("<br>"); -->
-        <!-- } -->
+<p id="txt"></p>
+<script>
+function readTextFile(file)
+{
+    var txtFile = new XMLHttpRequest();
+    var allText = "file not found";
+    txtFile.onreadystatechange = function () {
+        if (txtFile.readyState === XMLHttpRequest.DONE && txtFile.status == 200) {
+            allText = txtFile.responseText;
+            allText = allText.split("\n").join("<br>");
+        }
 
-        <!-- document.getElementById('demo').innerHTML = allText; -->
-    <!-- } -->
-    <!-- txtFile.open("GET", 'https://johned0.github.io/covid-19/CountrySummary.txt', true); -->
-    <!-- txtFile.send(null);} -->
-<!-- </script> -->
-->
+        document.getElementById('txt').innerHTML = allText;
+    }
+    txtFile.open("GET", 'https://johned0.github.io/covid-19/CountrySummary.txt', true);
+    document.getElementById('txt').innerHTML = "Text file";
+    txtFile.send(null);
+}
+readTextFile()
+</script>
 
-<br>
 <h2>Reference :</h2><br>
 These graphs have been generated using the public data from : <a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide" target="_blank">European Centre for Disease Prevention and Control</a><br>
 Python source code to generate these graphs is available here : <a href="https://github.com/linsalrob/EdwardsLab/tree/master/covid19" target="_blank">Edwards Lab, Github</a>. Courtesy of : <a href="https://edwards.sdsu.edu/research/" target="_blank">Edwards Lab, San Diego State University</a><br>

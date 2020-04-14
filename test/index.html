@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Hello World :</h1>
+<p id="hw"></p>
+
+<script>
+document.getElementById("hw").innerHTML = "Hello world!";
+</script>
+
+<p>Text File :</p>
+
+<p id="txt"></p>
+<script>
+function readTextFile(file)
+{
+    var txtFile = new XMLHttpRequest();
+    var allText = "file not found";
+    txtFile.onreadystatechange = function () {
+        if (txtFile.readyState === XMLHttpRequest.DONE && txtFile.status == 200) {
+            allText = txtFile.responseText;
+            allText = allText.split("\n").join("<br>");
+        }
+
+        document.getElementById('txt').innerHTML = allText;
+    }
+    txtFile.open("GET", 'https://johned0.github.io/covid-19/CountrySummary.txt', true);
+    document.getElementById('txt').innerHTML = "Text file";
+    txtFile.send(null);
+}
+readTextFile()
+</script>
+
+</body>
+</html>
