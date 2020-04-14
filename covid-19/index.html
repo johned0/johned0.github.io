@@ -38,23 +38,23 @@
 <!-- <div><embed src="CountrySummary.txt" height="800" width="500></div><br> -->
 <p><embed src="CountrySummary.txt" height="600" width="500><br></p>
 
-<p id="demo"></p>
-<script type = "text/javascript">
-function readTextFile(file)
-{
-    var txtFile = new XMLHttpRequest();
-    var allText = "file not found";
-    txtFile.onreadystatechange = function () {
-        if (txtFile.readyState === XMLHttpRequest.DONE && txtFile.status == 200) {
-            allText = txtFile.responseText;
-            allText = allText.split("\n").join("<br>");
-        }
+<!-- <p id="demo"></p> -->
+<!-- <script type = "text/javascript"> -->
+<!-- function readTextFile(file) -->
+<!-- { -->
+    <!-- var txtFile = new XMLHttpRequest(); -->
+    <!-- var allText = "file not found"; -->
+    <!-- txtFile.onreadystatechange = function () { -->
+        <!-- if (txtFile.readyState === XMLHttpRequest.DONE && txtFile.status == 200) { -->
+            <!-- allText = txtFile.responseText; -->
+            <!-- allText = allText.split("\n").join("<br>"); -->
+        <!-- } -->
 
-        document.getElementById('demo').innerHTML = allText;
-    }
-    txtFile.open("GET", 'https://johned0.github.io/covid-19/CountrySummary.txt', true);
-    txtFile.send(null);}
-</script>
+        <!-- document.getElementById('demo').innerHTML = allText; -->
+    <!-- } -->
+    <!-- txtFile.open("GET", 'https://johned0.github.io/covid-19/CountrySummary.txt', true); -->
+    <!-- txtFile.send(null);} -->
+<!-- </script> -->
 ->
 
 <br>
