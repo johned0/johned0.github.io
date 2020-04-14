@@ -38,7 +38,9 @@
 <!-- <div><embed src="CountrySummary.txt" height="800" width="500></div><br> -->
 <!-- <p><embed src="CountrySummary.txt"><br></p> -->
 
-    <script>
+<script>
+function readTextFile(file)
+{
     var txtFile = new XMLHttpRequest();
     var allText = "file not found";
     txtFile.onreadystatechange = function () {
@@ -51,9 +53,10 @@
     }
     txtFile.open("GET", 'https://johned0.github.io/covid-19/CountrySummary.txt', true);
     txtFile.send(null);
-    </script>
+}
+</script>
 
-
+readTextFile()
 
 <br>
 <h2>Reference :</h2><br>
