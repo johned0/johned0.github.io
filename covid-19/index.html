@@ -12,11 +12,12 @@
       console.log(reader.result.substring(0, 200));
     };
     reader.readAsText('https://johned0.github.io/covid-19/CountrySummary.txt');
+    <!-- txtFile.open("GET", 'https://johned0.github.io/covid-19/CountrySummary.txt', true); -->
   };
 </script>
 </head>
 <body>
-<input type='file' accept='text/plain' onchange='openFile(event)'><br>
+<!-- <input type='file' accept='text/plain' onchange='openFile(event)'><br> -->
 <div id='output'>
 ...
 </div>
