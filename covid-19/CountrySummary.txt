@@ -1,7 +1,7 @@
 Country: China
 First Case            : 31/12/2019
 First Death           : 11/01/2020
-Total number of cases : 83849
+Total number of cases : 83864
 Total number of deaths: 4636
 Fatality rate         : 5.53 %
 Population (2018)     : 1392.73 (Million)
@@ -9,56 +9,56 @@ Population (2018)     : 1392.73 (Million)
 Country: Germany
 First Case            : 28/01/2020
 First Death           : 10/03/2020
-Total number of cases : 143457
-Total number of deaths: 4598
-Fatality rate         : 3.21 %
+Total number of cases : 145694
+Total number of deaths: 4879
+Fatality rate         : 3.35 %
 Population (2018)     : 82.93 (Million)
 
 Country: Italy
 First Case            : 31/01/2020
 First Death           : 23/02/2020
-Total number of cases : 181228
-Total number of deaths: 24114
-Fatality rate         : 13.31 %
+Total number of cases : 183957
+Total number of deaths: 24648
+Fatality rate         : 13.40 %
 Population (2018)     : 60.43 (Million)
 
 Country: United_Kingdom
 First Case            : 31/01/2020
 First Death           : 06/03/2020
-Total number of cases : 124743
-Total number of deaths: 16509
-Fatality rate         : 13.23 %
+Total number of cases : 129044
+Total number of deaths: 17337
+Fatality rate         : 13.43 %
 Population (2018)     : 66.49 (Million)
 
 Country: United_States_of_America
 First Case            : 21/01/2020
 First Death           : 01/03/2020
-Total number of cases : 787752
-Total number of deaths: 42539
-Fatality rate         : 5.40 %
+Total number of cases : 825041
+Total number of deaths: 45063
+Fatality rate         : 5.46 %
 Population (2018)     : 327.17 (Million)
 
 Country: Australia
 First Case            : 25/01/2020
 First Death           : 01/03/2020
-Total number of cases : 6625
-Total number of deaths: 71
-Fatality rate         : 1.07 %
+Total number of cases : 6647
+Total number of deaths: 74
+Fatality rate         : 1.11 %
 Population (2018)     : 24.99 (Million)
 
 Country: Spain
 First Case            : 01/02/2020
 First Death           : 05/03/2020
-Total number of cases : 200210
-Total number of deaths: 20852
+Total number of cases : 204178
+Total number of deaths: 21282
 Fatality rate         : 10.42 %
 Population (2018)     : 46.72 (Million)
 
 Country: Sweden
 First Case            : 01/02/2020
 First Death           : 12/03/2020
-Total number of cases : 14777
-Total number of deaths: 1580
-Fatality rate         : 10.69 %
+Total number of cases : 15322
+Total number of deaths: 1765
+Fatality rate         : 11.52 %
 Population (2018)     : 10.18 (Million)
 
