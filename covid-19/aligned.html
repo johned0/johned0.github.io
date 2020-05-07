@@ -24,40 +24,7 @@
 <img src="Covid-19AlignedPopNoramlizedCumulativeCases.png" alt="Covid-19AlignedPopNoramlizedCumulativeCases.png">
 <img src="Covid-19AlignedPopNoramlizedCumulativeDeaths.png" alt="Covid-19AlignedPopNoramlizedCumulativeDeaths.png"><br>
 
-<h2>Daily Cases</h2>
-<img src="Covid-19DailyCasesBarGraph.gif" alt="Covid-19DailyCasesBarGraph.gif"><br>
-<h2>Daily Deaths</h2>
-<img src="Covid-19DailyDeathsBarGraph.gif" alt="Covid-19DailyDeathsBarGraph.gif"><br><br>
-
-<h2>Cumulative Cases</h2>
-<img src="Covid-19CumulativeCasesBarGraph.gif" alt="Covid-19CumulativeCasesBarGraph.gif"><br>
-<h2>Cumulative Deaths</h2>
-<img src="Covid-19CumulativeDeathsBarGraph.gif" alt="Covid-19CumulativeDeathsBarGraph.gif"><br>
-
-<h2>Country Summary Analysis</h2>
-<!-- <div><embed src="CountrySummary.txt" height="800" width="500></div><br> -->
-<!-- <p><embed src="CountrySummary.txt" height="600" width="500><br></p> -->
-
-<p id="txt"></p>
-<script>
-function readTextFile(file)
-{
-    var txtFile = new XMLHttpRequest();
-    var allText = "file not found";
-    txtFile.onreadystatechange = function () {
-        if (txtFile.readyState === XMLHttpRequest.DONE && txtFile.status == 200) {
-            allText = txtFile.responseText;
-            allText = allText.split("\n").join("<br>");
-        }
-
-        document.getElementById('txt').innerHTML = allText;
-    }
-    txtFile.open("GET", 'https://johned0.github.io/covid-19/CountrySummary.txt', true);
-    document.getElementById('txt').innerHTML = "Text file";
-    txtFile.send(null);
-}
-readTextFile()
-</script>
+<br><a href="https://johned0.github.io/covid-19/" target="_blank">Unaligned Results</a><br><br>
 
 <h2>Reference :</h2><br>
 These graphs have been generated using the public data from : <a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide" target="_blank">European Centre for Disease Prevention and Control</a><br>
