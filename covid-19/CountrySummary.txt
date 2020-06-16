@@ -1,47 +1,59 @@
 Country: China
+Latest cases          : 43
+Latest deaths         : 0
 First Case            : 31/12/2019
 First Death           : 11/01/2020
-Total number of cases : 84335
+Total number of cases : 84378
 Total number of deaths: 4638
 Fatality rate         : 5.50 %
 Population (2018)     : 1392.73 (Million)
 
 Country: Germany
+Latest cases          : 378
+Latest deaths         : 9
 First Case            : 28/01/2020
 First Death           : 10/03/2020
-Total number of cases : 186461
-Total number of deaths: 8791
+Total number of cases : 186839
+Total number of deaths: 8800
 Fatality rate         : 4.71 %
 Population (2018)     : 82.93 (Million)
 
 Country: Italy
+Latest cases          : 301
+Latest deaths         : 26
 First Case            : 31/01/2020
 First Death           : 23/02/2020
-Total number of cases : 236989
-Total number of deaths: 34345
-Fatality rate         : 14.49 %
+Total number of cases : 237290
+Total number of deaths: 34371
+Fatality rate         : 14.48 %
 Population (2018)     : 60.43 (Million)
 
 Country: United_Kingdom
+Latest cases          : 968
+Latest deaths         : 38
 First Case            : 31/01/2020
 First Death           : 07/03/2020
-Total number of cases : 295889
-Total number of deaths: 41698
-Fatality rate         : 14.09 %
+Total number of cases : 296857
+Total number of deaths: 41736
+Fatality rate         : 14.06 %
 Population (2018)     : 66.49 (Million)
 
 Country: United_States_of_America
+Latest cases          : 19957
+Latest deaths         : 395
 First Case            : 21/01/2020
 First Death           : 01/03/2020
-Total number of cases : 2094069
-Total number of deaths: 115732
-Fatality rate         : 5.53 %
+Total number of cases : 2114026
+Total number of deaths: 116127
+Fatality rate         : 5.49 %
 Population (2018)     : 327.17 (Million)
 
 Country: Australia
+Latest cases          : 15
+Latest deaths         : 0
 First Case            : 25/01/2020
 First Death           : 01/03/2020
-Total number of cases : 7320
+Total number of cases : 7335
 Total number of deaths: 102
 Fatality rate         : 1.39 %
 Population (2018)     : 24.99 (Million)
