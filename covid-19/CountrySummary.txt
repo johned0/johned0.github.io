@@ -1,88 +1,88 @@
 Country: China
-Latest cases          : 276
-Latest deaths         : 0
-Latest fatality rate  : 0.00 %
+Latest cases          : 166
+Latest deaths         : 2
+Latest fatality rate  : 1.20 %
 First Case            : 31/12/2019
 First Death           : 11/01/2020
-Total number of cases : 87489
-Total number of deaths: 4659
-Fatality rate         : 5.33 %
+Total number of cases : 87655
+Total number of deaths: 4661
+Fatality rate         : 5.32 %
 Population (2019)     : 1433.78 (Million)
 
 Country: Germany
-Latest cases          : 902
-Latest deaths         : 6
-Latest fatality rate  : 0.67 %
+Latest cases          : 955
+Latest deaths         : 7
+Latest fatality rate  : 0.73 %
 First Case            : 28/01/2020
 First Death           : 10/03/2020
-Total number of cases : 207828
-Total number of deaths: 9134
-Fatality rate         : 4.39 %
+Total number of cases : 209653
+Total number of deaths: 9148
+Fatality rate         : 4.36 %
 Population (2019)     : 83.02 (Million)
 
 Country: Italy
-Latest cases          : 382
-Latest deaths         : 3
-Latest fatality rate  : 0.79 %
+Latest cases          : 379
+Latest deaths         : 9
+Latest fatality rate  : 2.37 %
 First Case            : 31/01/2020
 First Death           : 23/02/2020
-Total number of cases : 247158
-Total number of deaths: 35132
-Fatality rate         : 14.21 %
+Total number of cases : 247537
+Total number of deaths: 35141
+Fatality rate         : 14.20 %
 Population (2019)     : 60.36 (Million)
 
 Country: United_Kingdom
-Latest cases          : 846
-Latest deaths         : 38
-Latest fatality rate  : 4.49 %
+Latest cases          : 880
+Latest deaths         : 120
+Latest fatality rate  : 13.64 %
 First Case            : 01/02/2020
 First Death           : 07/03/2020
-Total number of cases : 302301
-Total number of deaths: 45999
-Fatality rate         : 15.22 %
+Total number of cases : 303181
+Total number of deaths: 46119
+Fatality rate         : 15.21 %
 Population (2019)     : 66.65 (Million)
 
 Country: United_States_of_America
-Latest cases          : 68032
-Latest deaths         : 1357
-Latest fatality rate  : 1.99 %
+Latest cases          : 67023
+Latest deaths         : 1244
+Latest fatality rate  : 1.86 %
 First Case            : 21/01/2020
 First Death           : 01/03/2020
-Total number of cases : 4495014
-Total number of deaths: 152070
-Fatality rate         : 3.38 %
+Total number of cases : 4562037
+Total number of deaths: 153314
+Fatality rate         : 3.36 %
 Population (2019)     : 329.06 (Million)
 
 Country: Australia
-Latest cases          : 721
-Latest deaths         : 13
-Latest fatality rate  : 1.80 %
+Latest cases          : 602
+Latest deaths         : 7
+Latest fatality rate  : 1.16 %
 First Case            : 25/01/2020
 First Death           : 01/03/2020
-Total number of cases : 16303
-Total number of deaths: 189
+Total number of cases : 16905
+Total number of deaths: 196
 Fatality rate         : 1.16 %
 Population (2019)     : 25.20 (Million)
 
 Country: Sweden
-Latest cases          : 318
-Latest deaths         : 9
-Latest fatality rate  : 2.83 %
+Latest cases          : 322
+Latest deaths         : 4
+Latest fatality rate  : 1.24 %
 First Case            : 01/02/2020
 First Death           : 12/03/2020
-Total number of cases : 80100
-Total number of deaths: 5739
-Fatality rate         : 7.16 %
+Total number of cases : 80422
+Total number of deaths: 5743
+Fatality rate         : 7.14 %
 Population (2019)     : 10.23 (Million)
 
 Country: Brazil
-Latest cases          : 57837
-Latest deaths         : 1129
-Latest fatality rate  : 1.95 %
+Latest cases          : 52383
+Latest deaths         : 1212
+Latest fatality rate  : 2.31 %
 First Case            : 26/02/2020
 First Death           : 18/03/2020
-Total number of cases : 2610102
-Total number of deaths: 91263
-Fatality rate         : 3.50 %
+Total number of cases : 2662485
+Total number of deaths: 92475
+Fatality rate         : 3.47 %
 Population (2019)     : 211.05 (Million)
 
