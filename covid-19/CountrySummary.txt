@@ -1,104 +1,104 @@
 Country: China
-Latest cases                               : 41
+Latest cases                               : 23
 Latest deaths                              : 0
 Latest fatality rate                       : 0.00 %
 First Case                                 : 31/12/2019
 First Death                                : 11/01/2020
-Total number of cases                      : 89695
+Total number of cases                      : 89718
 Total number of deaths                     : 4711
-Total number of cases (Per 1 million pop.) : 62.56
+Total number of cases (Per 1 million pop.) : 62.57
 Total number of deaths (Per 1 million pop.): 3.29
 Overall Fatality rate                      : 5.25 %
 Population (2019)                          : 1433.78 (Million)
 
 Country: Germany
-Latest cases                               : 711
-Latest deaths                              : 3
-Latest fatality rate                       : 0.42 %
+Latest cases                               : 1278
+Latest deaths                              : 5
+Latest fatality rate                       : 0.39 %
 First Case                                 : 28/01/2020
 First Death                                : 10/03/2020
-Total number of cases                      : 233575
-Total number of deaths                     : 9272
-Total number of cases (Per 1 million pop.) : 2813.51
-Total number of deaths (Per 1 million pop.): 111.68
-Overall Fatality rate                      : 3.97 %
+Total number of cases                      : 234853
+Total number of deaths                     : 9277
+Total number of cases (Per 1 million pop.) : 2828.90
+Total number of deaths (Per 1 million pop.): 111.75
+Overall Fatality rate                      : 3.95 %
 Population (2019)                          : 83.02 (Million)
 
 Country: Italy
-Latest cases                               : 1209
-Latest deaths                              : 7
-Latest fatality rate                       : 0.58 %
+Latest cases                               : 953
+Latest deaths                              : 4
+Latest fatality rate                       : 0.42 %
 First Case                                 : 31/01/2020
 First Death                                : 23/02/2020
-Total number of cases                      : 259345
-Total number of deaths                     : 35437
-Total number of cases (Per 1 million pop.) : 4296.67
-Total number of deaths (Per 1 million pop.): 587.10
-Overall Fatality rate                      : 13.66 %
+Total number of cases                      : 260298
+Total number of deaths                     : 35441
+Total number of cases (Per 1 million pop.) : 4312.46
+Total number of deaths (Per 1 million pop.): 587.16
+Overall Fatality rate                      : 13.62 %
 Population (2019)                          : 60.36 (Million)
 
 Country: United_Kingdom
-Latest cases                               : 1041
-Latest deaths                              : 6
-Latest fatality rate                       : 0.58 %
+Latest cases                               : 972
+Latest deaths                              : 4
+Latest fatality rate                       : 0.41 %
 First Case                                 : 01/02/2020
 First Death                                : 07/03/2020
-Total number of cases                      : 325642
-Total number of deaths                     : 41429
-Total number of cases (Per 1 million pop.) : 4886.06
-Total number of deaths (Per 1 million pop.): 621.62
-Overall Fatality rate                      : 12.72 %
+Total number of cases                      : 326614
+Total number of deaths                     : 41433
+Total number of cases (Per 1 million pop.) : 4900.65
+Total number of deaths (Per 1 million pop.): 621.68
+Overall Fatality rate                      : 12.69 %
 Population (2019)                          : 66.65 (Million)
 
 Country: United_States_of_America
-Latest cases                               : 34506
-Latest deaths                              : 444
-Latest fatality rate                       : 1.29 %
+Latest cases                               : 38298
+Latest deaths                              : 473
+Latest fatality rate                       : 1.24 %
 First Case                                 : 21/01/2020
 First Death                                : 01/03/2020
-Total number of cases                      : 5702611
-Total number of deaths                     : 176806
-Total number of cases (Per 1 million pop.) : 17329.74
-Total number of deaths (Per 1 million pop.): 537.30
-Overall Fatality rate                      : 3.10 %
+Total number of cases                      : 5740909
+Total number of deaths                     : 177279
+Total number of cases (Per 1 million pop.) : 17446.13
+Total number of deaths (Per 1 million pop.): 538.74
+Overall Fatality rate                      : 3.09 %
 Population (2019)                          : 329.06 (Million)
 
 Country: Australia
-Latest cases                               : 210
-Latest deaths                              : 17
-Latest fatality rate                       : 8.10 %
+Latest cases                               : 104
+Latest deaths                              : 15
+Latest fatality rate                       : 14.42 %
 First Case                                 : 25/01/2020
 First Death                                : 01/03/2020
-Total number of cases                      : 24812
-Total number of deaths                     : 502
-Total number of cases (Per 1 million pop.) : 984.48
-Total number of deaths (Per 1 million pop.): 19.92
-Overall Fatality rate                      : 2.02 %
+Total number of cases                      : 24916
+Total number of deaths                     : 517
+Total number of cases (Per 1 million pop.) : 988.60
+Total number of deaths (Per 1 million pop.): 20.51
+Overall Fatality rate                      : 2.07 %
 Population (2019)                          : 25.20 (Million)
 
 Country: Sweden
-Latest cases                               : 0
-Latest deaths                              : 0
-Latest fatality rate                       : nan %
+Latest cases                               : 653
+Latest deaths                              : 3
+Latest fatality rate                       : 0.46 %
 First Case                                 : 01/02/2020
 First Death                                : 12/03/2020
-Total number of cases                      : 86068
-Total number of deaths                     : 5810
-Total number of cases (Per 1 million pop.) : 8413.14
-Total number of deaths (Per 1 million pop.): 567.93
-Overall Fatality rate                      : 6.75 %
+Total number of cases                      : 86721
+Total number of deaths                     : 5813
+Total number of cases (Per 1 million pop.) : 8476.97
+Total number of deaths (Per 1 million pop.): 568.22
+Overall Fatality rate                      : 6.70 %
 Population (2019)                          : 10.23 (Million)
 
 Country: Brazil
-Latest cases                               : 23421
-Latest deaths                              : 494
-Latest fatality rate                       : 2.11 %
+Latest cases                               : 17078
+Latest deaths                              : 565
+Latest fatality rate                       : 3.31 %
 First Case                                 : 26/02/2020
 First Death                                : 18/03/2020
-Total number of cases                      : 3605783
-Total number of deaths                     : 114744
-Total number of cases (Per 1 million pop.) : 17085.01
-Total number of deaths (Per 1 million pop.): 543.68
+Total number of cases                      : 3622861
+Total number of deaths                     : 115309
+Total number of cases (Per 1 million pop.) : 17165.93
+Total number of deaths (Per 1 million pop.): 546.36
 Overall Fatality rate                      : 3.18 %
 Population (2019)                          : 211.05 (Million)
 
