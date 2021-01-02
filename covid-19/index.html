@@ -8,62 +8,15 @@
 <font face="arial">
 <h1>Covid-19 Statistics</h1>
 
-<a href="https://johned0.github.io/covid-19/aligned.html" target="_blank">Aligned Results</a> | <a href="https://johned0.github.io/covid-19/single.html" target="_blank">UK</a><br>
+ECDC switched to a weekly reporting schedule for the COVID-19 situation worldwide.<br>
+These daily graphs have been deprecated.<br>
 
-<h2>Daily Cases and Deaths</h2>
-<img src="Covid-19DailyCases(7daymovingaverage).png" alt="Covid-19DailyCases(7daymovingaverage).png">
-<img src="Covid-19DailyDeaths(7daymovingaverage).png" alt="Covid-19DailyDeaths(7daymovingaverage).png"><br>
-<h2>Cumulative Cases and Deaths</h2>
-<img src="Covid-19CumulativeCases.png" alt="Covid-19CumulativeCases.png">
-<img src="Covid-19CumulativeDeaths.png" alt="Covid-19CumulativeDeaths.png"><br>
-
-<h2>Daily Cases and Deaths - Instances Per 1 Million Population</h2>
-<img src="Covid-19PopNoramlizedDailyCases(7daymovingaverage).png" alt="Covid-19PopNoramlizedDailyCases(7daymovingaverage).png">
-<img src="Covid-19PopNoramlizedDailyDeaths(7daymovingaverage).png" alt="Covid-19PopNoramlizedDailyDeaths(7daymovingaverage).png"><br>
-<h2>Cumulative Cases and Deaths - Instances Per 1 Million Population</h2>
-<img src="Covid-19PopNoramlizedCumulativeCases.png" alt="Covid-19PopNoramlizedCumulativeCases.png">
-<img src="Covid-19PopNoramlizedCumulativeDeaths.png" alt="Covid-19PopNoramlizedCumulativeDeaths.png"><br>
-
-<!-- <h2>Daily Cases</h2> -->
-<!-- <img src="Covid-19DailyCasesBarGraph.gif" alt="Covid-19DailyCasesBarGraph.gif"><br> -->
-<!-- <h2>Daily Deaths</h2> -->
-<!-- <img src="Covid-19DailyDeathsBarGraph.gif" alt="Covid-19DailyDeathsBarGraph.gif"><br><br> -->
-
-<h2>Cumulative Cases</h2>
-<img src="Covid-19CumulativeCasesBarGraph.gif" alt="Covid-19CumulativeCasesBarGraph.gif"><br>
-<h2>Cumulative Deaths</h2>
-<img src="Covid-19CumulativeDeathsBarGraph.gif" alt="Covid-19CumulativeDeathsBarGraph.gif"><br>
-
-<h2>Country Summary Analysis</h2>
-<!-- <div><embed src="CountrySummary.txt" height="800" width="500></div><br> -->
-<!-- <p><embed src="CountrySummary.txt" height="600" width="500><br></p> -->
-
-<p id="txt"></p>
-<script>
-function readTextFile(file)
-{
-    var txtFile = new XMLHttpRequest();
-    var allText = "file not found";
-    txtFile.onreadystatechange = function () {
-        if (txtFile.readyState === XMLHttpRequest.DONE && txtFile.status == 200) {
-            allText = txtFile.responseText;
-            allText = allText.split("\n").join("<br>");
-        }
-
-        document.getElementById('txt').innerHTML = allText;
-    }
-    txtFile.open("GET", 'https://johned0.github.io/covid-19/CountrySummary.txt', true);
-    document.getElementById('txt').innerHTML = "Text file";
-    txtFile.send(null);
-}
-readTextFile()
-</script>
 
 <h2>Reference :</h2><br>
-These graphs have been generated using the public data from : <a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide" target="_blank">European Centre for Disease Prevention and Control</a><br>
-Python source code to generate these graphs is available here : <a href="https://github.com/linsalrob/EdwardsLab/tree/master/covid19" target="_blank">Edwards Lab, Github</a>. Courtesy of : <a href="https://edwards.sdsu.edu/research/" target="_blank">Edwards Lab, San Diego State University</a><br>
+The ECDC weekly data is available here: <a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide" target="_blank">European Centre for Disease Prevention and Control</a><br>
+Python source code to generate the original graphs is available here : <a href="https://github.com/linsalrob/EdwardsLab/tree/master/covid19" target="_blank">Edwards Lab, Github</a>. Courtesy of : <a href="https://edwards.sdsu.edu/research/" target="_blank">Edwards Lab, San Diego State University</a><br>
 <br>
-Copyright &copy; John Edwards 2020.
+Copyright &copy; John Edwards 2021.
 </font>
 </body>
 </html>
